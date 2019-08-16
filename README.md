@@ -1,2 +1,3 @@
 # TestTracker
-On setup, just installed Node.js & NPM. Still need to install Angular CLI(Still need to get Docker running).
+Following a tutorial to make a test tracking application with Python and Angular!
+Left off at 'By the way, this might be a good time to save your progress:'(right before 'Managing HTTP Requests with Flask')
