@@ -103,3 +103,10 @@ ENV/
 .idea/
 *.iml
 .DS_Store
+
+# vs code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
